@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9708b908-e26a-4c4d-a275-0398e2ad7441" name="Default Changelist" comment="This the first working Version of ANPR that uses OCR">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9708b908-e26a-4c4d-a275-0398e2ad7441" name="Default Changelist" comment="This Version Uses EasyOCR. This is the second commit.&#10;Anpr.py is deleted">
       <change beforePath="$PROJECT_DIR$/Core.py" beforeDir="false" afterPath="$PROJECT_DIR$/Core.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,12 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1669650799661</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This Version Uses EasyOCR. This is the second commit.&#10;Anpr.py is deleted">
+      <created>1669652745081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652745081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This the first working Version of ANPR that uses OCR" />
-    <option name="LAST_COMMIT_MESSAGE" value="This the first working Version of ANPR that uses OCR" />
+    <MESSAGE value="This Version Uses EasyOCR. This is the second commit.&#10;Anpr.py is deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="This Version Uses EasyOCR. This is the second commit.&#10;Anpr.py is deleted" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669643277515">
@@ -137,6 +143,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="527" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1669642765607" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1669652707290">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1669652707290" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1669651133432">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -145,22 +155,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="809" y="246" width="502" height="279" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1669651255189" />
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1669651614107">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1669652759358">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669651614107" />
-    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1669651614106">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669652759358" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1669652759358">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1669651614106" />
-    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1669651614106">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1669652759358" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1669652759358">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1669651614106" />
-    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1669651614107">
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1669652759358" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1669652759358">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1669651614107" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1669652759358" />
     <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1669564778504">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
