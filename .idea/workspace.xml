@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9708b908-e26a-4c4d-a275-0398e2ad7441" name="Default Changelist" comment="" />
+    <list default="true" id="9708b908-e26a-4c4d-a275-0398e2ad7441" name="Default Changelist" comment="This the first working Version of ANPR that uses OCR">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core.py" beforeDir="false" afterPath="$PROJECT_DIR$/Core.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -86,8 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Core" />
+        <item itemvalue="Python.easyocr" />
         <item itemvalue="Python.easyocr" />
         <item itemvalue="Python.Core" />
+        <item itemvalue="Python.easyocr" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +114,19 @@
       <option name="presentableId" value="Default" />
       <updated>1667830852307</updated>
     </task>
+    <task id="LOCAL-00001" summary="This the first working Version of ANPR that uses OCR">
+      <created>1669650799661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669650799661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This the first working Version of ANPR that uses OCR" />
+    <option name="LAST_COMMIT_MESSAGE" value="This the first working Version of ANPR that uses OCR" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669643277515">
@@ -113,26 +137,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="527" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1669642765607" />
-    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1669460246396">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1669651133432">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1669460246396" />
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1669644152549">
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1669651133432" />
+    <state x="809" y="246" width="502" height="279" key="Github.ShareDialog" timestamp="1669651255189">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669644152549" />
-    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1669644152549">
+    <state x="809" y="246" width="502" height="279" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1669651255189" />
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1669651614107">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1669644152549" />
-    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1669644152549">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1669651614107" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1669651614106">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1669644152549" />
-    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1669644152549">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1669651614106" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1669651614106">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1669644152549" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1669651614106" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1669651614107">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1669651614107" />
     <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1669564778504">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -157,5 +185,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1669650175751" />
+    <state x="569" y="142" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1669650750809">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="569" y="142" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.816@0.0.1536.816" timestamp="1669650750809" />
   </component>
 </project>
