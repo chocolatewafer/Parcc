@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708b908-e26a-4c4d-a275-0398e2ad7441" name="Default Changelist" comment="This Version Uses EasyOCR. This is the second commit.&#10;Anpr.py is deleted">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core.py" beforeDir="false" afterPath="$PROJECT_DIR$/Core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/im13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/Test/im13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/im9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/Test/im9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/image4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/Test/image4.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="9708b908-e26a-4c4d-a275-0398e2ad7441" name="Default Changelist" comment="This Version Uses EasyOCR. This is the second commit.&#10;Anpr.py is deleted" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +44,9 @@
     <option name="defaultAccountId" value="c25c7ca4-c3f3-4485-9396-c4173725538f" />
   </component>
   <component name="ProjectId" id="2HDsBTh0pF6A5Nl9Fqc0DHKP4o8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,12 +59,12 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Documents\Python\MinorProject" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\Documents\Python\MinorProject\Dataset\Test" />
       <recent name="C:\Users\Acer\Documents\Python\MinorProject\Dataset" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Acer\Documents\Python\MinorProject" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Core">
