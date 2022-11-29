@@ -61,7 +61,6 @@ for imagePath in imagePaths:
 
     reader = pytesseract.image_to_string(cropped_image, config=options)
     result = reader
-
     text = result
     font = cv2.FONT_HERSHEY_SIMPLEX
     res = cv2.putText(image, text=text, org=(approx[0][0][0], approx[1][0][1] + 60), fontFace=font, fontScale=1,
