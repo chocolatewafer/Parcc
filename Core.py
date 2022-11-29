@@ -22,7 +22,6 @@ ap.add_argument("-p", "--psm", type=int, default=7,
 ap.add_argument("-d", "--debug", type=int, default=-1,
                 help="whether or not to show additional visualizations")
 args = vars(ap.parse_args())
-
 # initialize our ANPR class
 anpr = PyImageSearchANPR(debug=args["debug"] > 0)
 # grab all image paths in the input directory
