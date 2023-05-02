@@ -2,8 +2,10 @@
 
 # Parcc- An Automated Parking System
 
+<p align="center">
+  <img src="logo.png" alt="image_description">
+</p>
 This system is designed to manage the entry and exit of vehicles in a parking lot.
-#![alt text](logo.png)
 
 ## Features
 
