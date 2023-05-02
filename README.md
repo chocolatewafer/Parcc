@@ -43,7 +43,7 @@ The user interface allows the user to view the calculated fee amount and make a 
 
 - Python
 - QtDesigner
-- Tesseract 3.0
+- Tesseract
 
 ## Contributing
 
