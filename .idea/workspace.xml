@@ -218,6 +218,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1683054966181" />
+    <state x="593" y="328" key="Github.CreateGistDialog" timestamp="1683055679119">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="593" y="328" key="Github.CreateGistDialog/0.0.1536.816@0.0.1536.816" timestamp="1683055679119" />
     <state width="1515" height="258" key="GridCell.Tab.0.bottom" timestamp="1683055156008">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -250,18 +254,26 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1683055156008" />
-    <state x="584" y="128" key="RollbackChangesDialog" timestamp="1683055135218">
+    <state x="407" y="169" key="MultipleFileMergeDialog" timestamp="1683055641844">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="584" y="128" key="RollbackChangesDialog/0.0.1536.816@0.0.1536.816" timestamp="1683055135218" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1683048408588">
+    <state x="407" y="169" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1683055641844" />
+    <state x="584" y="128" key="RollbackChangesDialog" timestamp="1683055573043">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1683048408588" />
+    <state x="584" y="128" key="RollbackChangesDialog/0.0.1536.816@0.0.1536.816" timestamp="1683055573043" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1683055606432">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1683055606432" />
     <state x="182" y="102" width="1350" height="630" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1683048468913">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="182" y="102" width="1350" height="630" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1683048468913" />
+    <state x="578" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1683055631490">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="578" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1683055631490" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
