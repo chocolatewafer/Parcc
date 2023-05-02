@@ -18,7 +18,7 @@ This system is designed to manage the entry and exit of vehicles in a parking lo
 
 To install and run this system on your local machine, follow these steps:
 
-1. Clone the repository to your local machine using the command `git clone https://github.com/yourusername/automated-parking-management-system.git`
+1. Clone the repository to your local machine using the command `git clone https://github.com/chocolatewafer/Parcc.git`
 2. Install the required dependencies using `pip install -r requirements.txt`
 3. Run parcc.py
 
